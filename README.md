@@ -43,6 +43,17 @@ The model was trained on 80% of the dataset and tested on the remaining 20%.
 # Results
 Best Model Found , Model Name : DecisionTree , R2 Score : 0.9544837557267948
 
+# Future Work
+Integrate more advanced machine learning techniques such as XGBoost or deep learning models.
+Improve the feature engineering process to include additional attributes like fluorescence or diamond shape.
+Develop a web-based or mobile application to provide real-time price predictions.
+
+# References
+"Diamond Dataset on Kaggle":[https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
+"Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Géron
+"for domain purpose i used" :"https://www.americangemsociety.org/"
+
+
 
 
 
