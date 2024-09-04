@@ -28,3 +28,21 @@ Target variable:
 
 Dataset Source Link :
 [https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
+
+# Methodology
+
+'Data Preprocessing': Handling missing values, feature engineering, and scaling.
+'Exploratory Data Analysis (EDA)': Analyzing the relationship between attributes and diamond prices.
+'Model Selection': Training various machine learning models (e.g., Linear Regression, Decision Trees, Random Forest) to find the most accurate predictor.
+'Model Evaluation': Evaluating model performance using metrics like Mean Absolute Error (MAE) and R-squared.
+
+# Model
+The Random Forest Regressor model was chosen as the final model due to its high accuracy and robustness against overfitting.
+The model was trained on 80% of the dataset and tested on the remaining 20%.
+
+# Results
+Best Model Found , Model Name : DecisionTree , R2 Score : 0.9544837557267948
+
+
+
+
